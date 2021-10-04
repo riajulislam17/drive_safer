@@ -1,0 +1,90 @@
+[
+    {
+        "id": "001",
+        "name": "Mike",
+        "designation": "Bike Driving Trainer",
+        "license": "abc0123",
+        "cost": 12000,
+        "duration": "3 months",
+        "img": "https://thumbs.dreamstime.com/b/single-continuous-line-drawing-young-motocross-rider-climb-hill-full-speed-extreme-sport-race-concept-draw-design-177937344.jpg",
+        "trainer": "https://image.shutterstock.com/image-vector/young-boy-motorbike-riding-on-600w-1215233131.jpg",
+        "service": "Bike Driving Training"
+    },
+    {
+        "id": "002",
+        "name": "Jhon",
+        "designation": "Car Driving Trainer",
+        "license": "def0456",
+        "cost": 15000,
+        "duration": "3 months",
+        "img": "https://static.wixstatic.com/media/4a828f_8b85a6e339964f2ca829a8747c4bc391~mv2.png/v1/fill/w_594,h_462,al_c,q_85,usm_0.66_1.00_0.01/undraw_electric_car_b7hl.webp",
+        "trainer": "https://c8.alamy.com/zooms/9/f84ffb06463a4cccba807501a8c89752/r67f6e.jpg",
+        "service": "Car Driving Training"
+    },
+    {
+        "id": "003",
+        "name": "Euan",
+        "designation": "Truck Driving Trainer",
+        "license": "ghi0789",
+        "cost": 20000,
+        "duration": "5 months",
+        "img": "https://thumbs.dreamstime.com/b/tank-truck-isometric-icon-vector-illustration-186341874.jpg",
+        "trainer": "https://st3.depositphotos.com/1037238/13223/v/600/depositphotos_132237626-stock-illustration-truck-driver-standing-in-front.jpg",
+        "service": "Truck Driving Training"
+    },
+    {
+        "id": "004",
+        "name": "Mac",
+        "designation": "Bicycle Driving Trainer",
+        "license": "",
+        "cost": 1000,
+        "duration": "1 months",
+        "img": "https://image.freepik.com/free-vector/guy-rides-bike-bike-path-wearing-helmet-illustration_323758-111.jpg",
+        "trainer": "https://commutekern.org/wp-content/uploads/2020/09/undraw_Ride_a_bicycle_2yok.png",
+        "service": "Bicycle Driving Training"
+    },
+    {
+        "id": "005",
+        "name": "Harry",
+        "designation": "Motorbike Servicing Trainer",
+        "license": "",
+        "cost": 5000,
+        "duration": "1 months",
+        "img": "https://image.freepik.com/free-vector/guy-rides-bike-bike-path-wearing-helmet-illustration_323758-111.jpg",
+        "trainer": "https://thumbs.dreamstime.com/z/bearded-hipster-guy-motorcycle-customization-service-vector-flat-illustration-mechanic-man-assemble-parts-motorbike-garage-185951717.jpg",
+        "service": "Motorbike Servicing Training"
+    },
+    {
+        "id": "006",
+        "name": "Ron",
+        "designation": "Car Servicing Trainer",
+        "license": "",
+        "cost": 10000,
+        "duration": "1 months",
+        "img": "https://image.freepik.com/free-vector/guy-rides-bike-bike-path-wearing-helmet-illustration_323758-111.jpg",
+        "trainer": "https://i.pinimg.com/550x/7e/9a/72/7e9a72ac8d26a609bd54e43c9ea77389.jpg",
+        "service": "Car Servicing Training"
+    },
+    {
+        "id": "007",
+        "name": "Hulk",
+        "designation": "Truck Servicing Trainer",
+        "license": "",
+        "cost": 20000,
+        "duration": "1 months",
+        "img": "https://image.freepik.com/free-vector/guy-rides-bike-bike-path-wearing-helmet-illustration_323758-111.jpg",
+        "trainer": "https://image.shutterstock.com/image-vector/truck-repair-shop-flat-vector-260nw-604556654.jpg",
+        "service": "Truck Servicing Training"
+    },
+    {
+        "id": "008",
+        "name": "Jack",
+        "designation": "Bicycle Servicing Trainer",
+        "license": "",
+        "cost": 1000,
+        "duration": "1 months",
+        "img": "https://image.freepik.com/free-vector/guy-rides-bike-bike-path-wearing-helmet-illustration_323758-111.jpg",
+        "trainer": "https://thumbs.dreamstime.com/z/bicycle-store-owner-his-bike-repair-shop-vector-illustration-37887044.jpg",
+        "service": "Bicycle Servicing Training"
+    }
+]
