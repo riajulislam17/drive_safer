@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Serving.css'
 
 const Serving = (props) => {
@@ -16,8 +17,8 @@ const Serving = (props) => {
                             <h5 className="card-title"><span className="fw-bold">Training Duration:</span> {duration}</h5>
                             <h5 className="card-title"><span className="fw-bold">Training Cost:</span> {cost}</h5>
                         <div className="d-flex justify-content-end">
-                            <button className="btn btn-warning ">Registration</button>
-                            </div>
+                            <button className="btn btn-warning fw-bold">Registration</button>
+                        </div>
                     </div>
                     </div>
                 </div>

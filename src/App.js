@@ -28,6 +28,9 @@ function App() {
           <Route path="/services">
             <Services></Services>
           </Route>
+          <Route path="/services/registration">
+            <Services></Services>
+          </Route>
           <Route path="/career">
             <Contact></Contact>
           </Route>
@@ -35,7 +38,6 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
-
         <Footer></Footer>
       </Router>
     </div>
